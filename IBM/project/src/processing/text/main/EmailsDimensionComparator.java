@@ -14,6 +14,7 @@ import javax.xml.parsers.DocumentBuilderFactory;
 
 import com.google.common.collect.HashBasedTable;
 import com.google.common.collect.Table;
+import com.google.common.collect.Table.Cell;
 
 import processing.text.enron.model.Email;
 import processing.text.enron.model.ValueComparatorInt;
@@ -138,7 +139,6 @@ public class EmailsDimensionComparator {
 			score_map.put(ei.getId(), ei_map);
 			
 	  	}
-	  	
 	  	
 	  	
 	  	
