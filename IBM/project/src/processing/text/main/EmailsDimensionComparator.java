@@ -140,6 +140,8 @@ public class EmailsDimensionComparator {
 	  	}
 	  	
 	  	
+	  	
+	  	
 		
 		}catch(SQLException se){
 			se.printStackTrace();
