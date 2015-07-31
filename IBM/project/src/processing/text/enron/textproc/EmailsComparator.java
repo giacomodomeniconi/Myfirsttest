@@ -7,6 +7,8 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
+import com.google.common.collect.Table;
+
 import processing.text.enron.model.Email;
 import processing.text.enron.model.Word;
 import utils.Util;
